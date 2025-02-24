@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 16,
+    "description": "X-ray pack v5.2.2, Minecraft 1.13+ Only",
+    "supported_formats": {
+      "min_inclusive": 16,
+      "max_inclusive": 99
+    }
+  }
+}
